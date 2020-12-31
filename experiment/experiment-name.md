@@ -1,1 +1,1 @@
-## Experiment name
+## Dynamic Analysis of Slider Crank Mechanism
