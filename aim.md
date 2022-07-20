@@ -1,0 +1,1 @@
+The purpose of this experiment is to analyze offset, acceleration of center of gravity of links, forces on each link of slider crank mechanism, with the help of position, velocity and acceleration diagram.
