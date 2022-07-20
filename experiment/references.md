@@ -6,19 +6,19 @@
   <tr style="background-color: white">
     <td>
     <ol>
-    <li>Theory-of-Machines-14th-ed-Khurmi-2005 (2)</li>
-    <li><a href="https://www.academia.edu/37828056/Chapter_-2_DYNAMIC_FORCE_ANALYSIS">Chapter 2:Dynamic force analysis by Polat Kurt</a>.</li>
+    <!-- href="https://www.academia.edu/37828056/Chapter_-2_DYNAMIC_FORCE_ANALYSIS" -->
+    <li>Dynamic force analysis by Polat Kurt</li>
     <li>RL Norton, Kinematics snd Dynamics of Machine Text Book</li>
-    <li>NPTEL-DOM Video,By Amitabha Gosh</li>
+    <li>NPTEL-DOM Video,By Prof. Amitabha Ghosh</li>
     </ol>
    </td>
     <td>Developer : Dr. K V Gangadharan | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
-    <li>Akshaya| NITK</li>
     <li>Nishan B Shetty | NITK</li>
     <li>Rohit Kushawa | NITK</li>
     <li>Vishwas A S| NITK</li>
+    <li>Akshaya| NITK</li>
     <li>Anusha B Salian | NITK</li>
     <li>Tejas Pethker | NITK</li>
     <li>Rohit Rajpal | NITK</li>
@@ -33,6 +33,3 @@
      </ul></td>
   </tr>
 </table>
- 
-
-
